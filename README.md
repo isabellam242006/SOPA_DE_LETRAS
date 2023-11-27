@@ -1,4 +1,5 @@
 # SOPA_DE_LETRAS
+PORFA AYUDENME SUBIENDO LOS CODIGOS A VISUAL QUE YO NO PUEDO, Y ASEGURENSE DE QUE CORRAN
 # Explicacion del codigo
 #### Agregar las palabras a la sopa
 Para agregar las palabras que tenemos a la sopa de letras creamos, la funcion 
